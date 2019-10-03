@@ -25,10 +25,3 @@ Scope:
 8. The semi-coloning schema part of the database is an integral part of the project feature therefore it should 
 be made to work with programming languages which require a termination as the semi-colon including cpp , java or
 others depending on usage.
-
-
-Designer : 
-Front-End & Database : 
-Saurabh Dahule
-Algorithm & Backend : 
-Vritansh Kamal 
